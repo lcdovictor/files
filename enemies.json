@@ -1,18 +1,18 @@
 [
     {
-        "name": "Tuco Salamanca",
+        "name": "Tuco",
         "level": 1
     },
     {
-        "name": "Mike Ehrmantraut",
+        "name": "Mike",
         "level": 5
     },
     {
-        "name": "Gustavo Fring",
+        "name": "Gustavo",
         "level": 9
     },
     {
-        "name": "Todd Alquist",
+        "name": "Todd",
         "level": 15
     }
 ]
